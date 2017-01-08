@@ -1,0 +1,10 @@
+<BODY style="background-image:url(Paris.jpg)">
+<H1 align="center"> Mini-Projet IoT : Mustafa DRISSI et Tung Hoang</H1>
+<center>
+<table style="width=100%" border=1>
+<tr>
+<th>Date</th>
+<th>Temperature °C</th>
+<th>Pression Pa</th>
+<th>Altitude m</th>
+</tr>
